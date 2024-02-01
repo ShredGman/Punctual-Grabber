@@ -1,18 +1,18 @@
 <h1 align="center">
-  Luna Token Grabber
+  Punctual Token Grabber
 </h1>
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/languages/top/factualnoobz/Punctual-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/stars/factualnoobz/Punctual-Grabber?color=6d00c1&logoColor=4a90e2">
   <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/commit-activity/w/factualnoobz/Punctual-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/last-commit/factualnoobz/Punctual-Grabber?color=4a90e2&logoColor=4a90e2">
   <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/issues/factualnoobz/Punctual-Grabber?color=4a90e2&logoColor=4a90e2">
+  <img  src="https://img.shields.io/github/issues-closed/factualnoobz/Punctual-Grabber?color=4a90e2&logoColor=4a90e2">
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
@@ -105,15 +105,3 @@ this to your victims.😈
 ```
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
-  
-### GUI
-
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/E8tX79g.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/c1cUmZF.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/zReVojP.png"></img>  
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/9u8nNbD.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/6GO5CB4.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
-</div>
