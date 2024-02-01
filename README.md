@@ -5,7 +5,7 @@
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
-  <img  src="https://img.shields.io/github/languages/top/factualnoobz/Punctual-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/languages/top/factualnoobz/Punctual-Grabber?color=4a90e2">
   <img  src="https://img.shields.io/github/stars/factualnoobz/Punctual-Grabber?color=4a90e2&logoColor=4a90e2">
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/factualnoobz/Punctual-Grabber?color=4a90e2&logoColor=4a90e2">
