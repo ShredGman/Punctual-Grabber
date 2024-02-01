@@ -5,7 +5,7 @@
 <div align="center">
   <img  src="https://i.pinimg.com/originals/8e/58/10/8e5810d63d8333aadd011acd52f25271.gif">
   <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=4a90e2">
   <img  src="https://img.shields.io/github/stars/factualnoobz/Punctual-Grabber?color=6d00c1&logoColor=4a90e2">
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/factualnoobz/Punctual-Grabber?color=4a90e2">
